@@ -1,3 +1,10 @@
-- 👋 Hi, I’m @iomihara11
-- 👀 I’m interested in the Python
-- 🌱 I’m currently learning Swift
+## About myself
+I’m @iomihara11
+
+## Skills
+- Python
+- Flask
+- Disnake
+- Aiogram
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
