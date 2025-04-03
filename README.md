@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iomihara11
+- 👀 I’m interested in the Python
+- 🌱 I’m currently learning Swift
