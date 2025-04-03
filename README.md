@@ -9,4 +9,4 @@ I’m @iomihara11
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
